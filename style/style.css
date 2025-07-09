@@ -81,7 +81,8 @@ nav li a{
 }
 .banner-profile-pic{
     width: 585px;
-    height: 676px;
+    height: 700px;
+    border-radius: 200px;
 
 }
 /* main section, about */
